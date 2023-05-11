@@ -20,3 +20,5 @@ const AppFilter = () => {
 }
 
 export default AppFilter;
+
+// Path: src\components\app-filter\app-filter.js
